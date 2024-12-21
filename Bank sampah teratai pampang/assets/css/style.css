@@ -1,0 +1,10 @@
+.hero.is-primary {
+    background: url('../images/bg-bank-sampah.jpg') center/cover no-repeat;
+    color: #fff;
+    min-height: 400px; /* Tambahkan tinggi minimum untuk memastikan hero terlihat */
+}
+
+.hero.is-primary .title,
+.hero.is-primary .subtitle {
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7);
+}
